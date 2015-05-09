@@ -1,0 +1,214 @@
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+.main_body{}
+.main_body p{color:#aaaaaa; font-weight:300;}
+
+.main_body hr { border: dashed #d3d3d3; border-width: 1px 0 0;}
+
+.main_body .small-dark {font-size: 13px; color: #555555;font-weight:500; }
+
+.main_body .small-dark a{color: #00ced1; }
+
+.main_body .small-dark a:hover{color: #00868b; }
+
+
+
+.main_body .panel {
+  border-style: none;
+  border-top:solid;
+  border-color:#fffafa;
+  margin-bottom: 0rem;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  background: #f5f5f5;
+  color: #696969; }
+
+.main_body .panel i{font-size:30px;}
+.main_body .panel p{color:#aaaaaa; font-weight:600; font-size:20px;}
+.main_body .panel a{color:#00ced1;}
+.main_body .panel a:hover{color:#00868b;}
+
+
+
+
+
+​.full-width {
+  max-width: 1400px;
+
+}
+.full-width {max-width: 1400px;}
+
+.page_footer { background-color: #00ced1; padding: 2rem 4rem; text-align: center; color: #fff;}
+
+.page_footer i {font-size: 30px;}
+
+.page_footer hr {border-color: #00c5cd;}
+
+.page_footer h4 {color: #fff; font-size: 1em; font-weight: 400; text-transform: uppercase; margin-top: 2.5rem; margin-bottom: 10px;}
+
+.page_footer p{font-size: 0.8em; color: #fff;}
+
+.page_footer a {font-size: 1em; color: #fff;}
+.page_footer hr { border: solid #00c5cd; border-width: 1px 0 0;}
+.page_footer .second a {font-size: 0.8em; color: #fff;}
+
+@media only screen and (min-width: 40.063em) {.page_footer .columns:nth-child(n+2) {border-left: 1px solid #00c5cd; min-height: 200px;}}
+
+.page_footer-links {list-style-type: none;}
+
+.page_footer-links li {font-size: 0.7em; margin-top: .5em;}
+
+
+
+
+.footer {background-color: #696969; padding: 2rem 1rem; text-align: left; color: #d3d3d3;}
+
+.footer i {font-size: 25px; color:#696969;}
+.footer .button{
+    background-color: #d3d3d3;
+    border-color: #fff;
+    padding-top: 0rem;
+    padding-right: 0.7rem;
+    padding-bottom: 0.2rem;
+    padding-left: 0.7rem;
+}
+.footer .button:hover{
+    background-color: rgba(105, 105, 105, 0.8);
+    border-color: #696969;
+}
+.footer a {font-size: 0.8em; margin-top: 0.3em; color: #d3d3d3; font-weight: bold;}
+.footer a:hover {font-size: 0.8em; margin-top: 0.3em; color: #f5f5f5; font-weight: bold;}
+.footer img {font-size: 0.8em; margin-top: -0.3em; margin-right: 2em; color: #d3d3d3; font-weight: bold;}
+.footer .copyright {font-size: 0.7em; margin-top: 0.1em; color: #d3d3d3; font-weight: bold;}
+
+
+/* -----------------------------------------
+   Page Name 1
+----------------------------------------- */
+button, .button{
+    background-color: #00868b;
+    border-color: #fff;
+}
+button:hover, .button:hover{
+    background-color: rgba(0, 197,205, 0.8);
+    border-color: #00c5cd;
+}
+h1, h2, h3, h4, h5, h6, a {
+    color: #696969;
+}
+a:hover{
+    color: #d3d3d3;
+}
+
+.second a:hover{
+    color: #d3d3d3;
+}
+
+
+
+
+.transparent{background: none;z-index:1;}
+
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button){background: none;color:#fffafa;}
+
+.top-bar .name h1 a {color: #fffafa;}
+
+
+.top-bar-section li:not(.has-form) a:hover:not(.button){background-color: #00ced1;border-color: #fff;text-decoration: underline;color: #fff;}
+
+.top-bar-section ul li > a{color: red;font-weight: bold;}
+.top-bar .toggle-topbar.menu-icon a span:after{box-shadow: 0 0 0 1px #0066a4, 0 7px 0 1px #0066a4, 0 14px 0 1px #0066a4;}
+
+.top-bar .toggle-topbar.menu-icon a {padding: 0 30px 0 15px;}
+.top-bar .toggle-topbar.menu-icon {background: #fff;margin-right: 5px;border-radius: 5px;}
+
+
+
+
+
+.home{background-image: url(../images/ennkeypee_bg.jpg);background-size: 100%;background-attachment: fixed;padding: 225px 0;margin-top: -75px;margin-bottom: 30px;background-repeat: no-repeat;}
+
+.home h3{color: #fffafa;text-align: center;margin-bottom: 15px;font-size: 3em;text-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);}
+
+.home p{color: #fffafa;}
+
+@media only screen and (max-width: 800px) {.home{margin-bottom: 0;padding: 50px 0 10px;}.home h1{color: #fff;text-align: center;margin-bottom: 15px; font-size: 2em;text-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);}}
+
+
+
+.header-panel {
+  border-style: solid;
+  border-width: 1px;
+  border-color: none;
+  text-align: center;
+  margin-bottom: 1.25rem;
+  padding-top: 3.625rem;
+  padding-bottom: 0;
+  background: #00ced1;
+  color: #333333; }
+  .header-panel > :first-child {
+    margin-top: 0; }
+  .header-panel > :last-child {
+    margin-bottom: 0; }
+  .header-panel h1,.header-panel p, .header-panel li, .header-panel dl ul {
+    color: #fffafa; }
+  .header-panel h1{
+    line-height: 1; font-weight:800; font-size:4em; margin-bottom: 1.625rem; }
+    .header-panel h1.subheader{
+      line-height: 1.4; }
+
+
+.header-list {
+  font-weight:bold;
+  font-size:0.8em;
+  margin: 0 auto 0rem 0rem;
+  margin-left: 3.625rem;
+  margin-right: 0;
+  padding: 0;
+  list-style: none;
+  overflow: hidden; }
+  .header-list > li: {    
+    list-style: none;
+    float: left;
+    margin-left: 1.375rem;
+    display: block; }
+  .header-list > li:hover {    
+    list-style: none;
+    float: left;
+    margin-left: 1.375rem;
+    display: block; }
+    .header-list > li > * {
+    padding:0.625em 0.625em 0.25em 0.625em;
+      color:#eee9e9;
+      display: block; }
+    .header-list > li > *:hover {
+    padding:0.625em 0.625em 0.25em 0.625em;
+    background-color: #00e5ee;
+      color:#fffafa;
+      display: block; }
+
+    .active {
+    padding:0.625em 0.625em 0.25em 0.625em;
+    background-color: rgba(0, 229, 238, 0.5);
+      color:#fffafa;
+      display: block; }
+    
+
+
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */

@@ -1,0 +1,215 @@
+<body>
+
+    <div class="sticky">
+        <nav class="top-bar" data-topbar>
+            <ul class="title-area">
+                <li class="name">
+                    <h1>
+                        <a href="/"><img src="images/ennkeypee_whitelogo.png"</a>
+                    </h1>
+                </li>
+                <li class="toggle-topbar menu-icon">
+                    <a href="#">
+                        <span>Menu</span>
+                    </a>
+                </li>
+            </ul>
+            <section class="top-bar-section">
+                <ul id="nav" class="right">
+
+                    <li>
+                        <a href="">Cloud</a>
+                    </li>
+
+                    <li>
+                        <a href="">Server</a>
+                    </li>
+                    <li>
+                        <a href="">Desktop</a>
+                    </li>
+                    <li>
+                        <a href="">Laptop</a>
+                    </li>
+                    <li>
+                        <a href="">TV</a>
+                    </li>
+
+                    <li>
+                        <a href="">Tablet</a>
+                    </li>
+                    <li>
+                        <a href="">Phone</a>
+                    </li>
+                    <li>
+                        <a href="">Pod</a>
+                    </li>
+                    <li>
+                        <a href=""></a>
+                    </li>
+
+                    
+
+                   
+                </ul>
+
+            </section>
+        </nav>
+    </div>
+     <section class="home">
+        <div class="row">
+            <div class="small-centered medium-centered large-centered small-3 medium-6 large-6 columns">
+              
+                  <h3>Feel the Virtual-ity</h3>
+
+                <p class="text-center">
+			<b>ennkeypee</b> is a newly founded product design and development company. Through intelligent coding via means of idea generation, inspiration, assembling skills and fast learning we create software products for beautiful experience.</p>
+
+                <p class="text-center">
+                    <a href="http://ennkeypee.com/tour" class="small button">Tour <b><u>ennkeypee</u> →</b></a>
+                </p>
+
+            </div>
+        
+           
+</div>
+
+    </section>
+
+<div class="main_body">
+<div class="row">
+   <div class="large-centered large-8 columns">
+      <p><b>We are coders highy focussed towards the presentation and user experience, Designers before being Developers.</b> We love to create the soft-products with anything but beauty at hand, always beleived in Open Source and are trying to strengthen the same trend. <br /><br/>
+
+Want to join us? earn at our <a href="/school">school</a> and then work with us in our Labs or email us at <a href="">joining@ennkeypee.com</a>.</p>
+   </div>
+</div>
+
+<div class="row">
+   <div class="large-centered large-10 columns">
+      <br /><hr />
+   </div>
+</div>
+
+<div class="row">
+   <div class="large-centered large-9 columns">
+      <br /><h3>In Competition , thanks to our beautiful <a href="/product">PRODUCTS</a>.</h3>
+   </div>
+</div>
+
+<div class="row">
+   <div class="large-centered large-6 columns ">
+    <p class="text-center">Some of the Products we have assembled, designed, developed and are best known for.</p>
+   </div>
+</div>
+<br />
+<div class="row">
+   <div class="large-5 columns ">
+    <p class="small-dark">Some of the <a href="/product">Products</a> we have assembled, designed, developed and are known for among consumers. Bacon Ipsum is pog fork beef is a goof isp we have assembled, designed, developed and are known for among consumers.Bacon Ipsum is pog fork beef is a goof isp we have assembled, designed, developed and are known for among consumers.Bacon Ipsum is pog fork beef is a goof isp we have assembled, designed, developed and are known for among consumers.Bacon Ipsum is pog fork beef is a goof isp we have assembled, designed, developed and are known for among consumers.Bacond, developed and are known for among consumers.Bacon Ipsum is pog fork beef is a goof isp we have assembled, designed, developed and are kn.</p><a href="/product" class="tiny button">See all</a>
+   </div>
+  
+    <div class="large-7 columns ">
+       <div class="row">
+       <div class="large-6 columns">
+         <img src="images/image1.jpg" />
+       </div>
+
+       <div class="large-6 columns">
+         <img src="images/image2.jpg" />
+       </div>
+     </div>
+    <br />
+    <div class="row">
+       <div class="large-6 columns">
+         <img src="images/image3.jpg" />
+       </div>
+
+       <div class="large-6 columns">
+         <img src="images/image1.jpg" />
+       </div>
+     </div>
+   </div>
+</div>
+
+<div class="row">
+   <div class="large-centered large-12 columns">
+      <br /><hr />
+   </div>
+</div>
+
+<div class="row full-width">
+   <div class="large-centered large-8 columns">
+      <br /><h4><a href="/service">LABORATORY</a>, where we group together to create.</h4>
+   </div>
+</div>
+
+<div class="row">
+   <div class="large-centered large-8 columns ">
+    <p class="text-center">Here's why and how we came into existence.</p>
+   </div>
+</div>
+<br />
+<div class="row">
+
+   <div class="large-7 columns ">
+      <img src="images/ennkeypee_bg.jpg" />
+   </div>
+
+   <div class="large-5 columns ">
+    <p class="small-dark text-right">Some of the <a href="/service">Services</a> we have assembled, designed, developed and are known for among consumers.Bacon Ipsum is pog fork beef is a goof isp we have assembled, designed, developed and are known for among consumers.Bacon Ipsum is pog fork beef is a goof isp we have assembled, designed, developed and are known for among consumers.Bacon Ipsum is pog fork beef is a goof isp we have assembled, designed, developed and are known for among consumers.Bacon Ipsum is pog fork beef is a goof isp wknown for among consumers.Bacond, developed and are known for among consumers.Bacon Ipsum is pog fork beef is a goof isp we have assembled, designed, developed and are kn.</p><a href="/service" class="tiny button right">See all</a>
+   </div>
+</div><br /><br /><br />
+
+<div class="row panel full-width">
+ 
+  <div class="row">
+   <div class="large-centered large-8 columns ">
+    <p class="text-center">Here're some we have served till now, making all happy.</p>
+   </div>
+</div>
+  
+
+  <div class="row">
+
+   <div class="push-2 large-2 columns">
+      <i class="fi-monitor"></i>
+   </div>
+   <div class="push-2 large-2 columns">
+      <i class="fi-music"></i>
+   </div>
+   <div class="push-2 large-2 columns">
+      <i class="fi-social-dribbble"></i>
+   </div>
+   <div class="push-2 large-2 columns">
+      <i class="fi-social-flickr"></i>
+   </div>
+   <div class="large-2 columns">
+      <i class="fi-social-zerply"></i>
+   </div>
+   
+  </div>
+   
+  <br />
+
+  <div class="row">
+
+   <div class="push-3 large-3 columns">
+      <i class="fi-microphone"></i>
+   </div>
+   <div class="push-3 large-3 columns">
+      <i class="fi-megaphone"></i>
+   </div>
+   <div class="large-3 columns">
+      <a href=""><i>You?</i></a>
+   </div>
+   
+  </div>
+
+</div>
+
+
+
+</div>
+
+
+ 
+
